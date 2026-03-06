@@ -179,8 +179,8 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Firekid-is-him&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firekid-is-him&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" width="49%"/>
+<img src="https://github-readme-stats-tawny-omega-98.vercel.app/api?username=Firekid-is-him&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555" width="49%"/>
+<img src="https://github-readme-stats-tawny-omega-98.vercel.app/api/top-langs/?username=Firekid-is-him&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" width="49%"/>
 
 </div>
 
@@ -233,14 +233,14 @@ A curated collection of free, open public APIs organized by category. A referenc
 <div align="center">
 
 <a href="https://github.com/Firekid-is-him/hurl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=hurl&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
+  <img src="https://github-readme-stats-tawny-omega-98.vercel.app/api/pin/?username=Firekid-is-him&repo=hurl&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
 </a>
 <a href="https://github.com/Firekid-is-him/once">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=once&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
+  <img src="https://github-readme-stats-tawny-omega-98.vercel.app/api/pin/?username=Firekid-is-him&repo=once&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
 </a>
 
 <a href="https://github.com/Firekid-is-him/public-apis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=public-apis&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
+  <img src="https://github-readme-stats-tawny-omega-98.vercel.app/api/pin/?username=Firekid-is-him&repo=public-apis&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
 </a>
 
 </div>
