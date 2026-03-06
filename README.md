@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:1a1a1a&height=200&text=FIREKID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Bot%20Developer%20·%20Package%20Creator%20·%20Open%20Source%20Builder&descSize=14&descAlignY=78&descColor=555555"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:1a1a1a&height=200&text=FIREKID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Bot%20Developer%20·%20Package%20Creator%20·%20Open%20Source%20Builder&descSize=14&descAlignY=78&descColor=888888"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=888888&center=true&vCenter=true&width=700&lines=Ayomide+%2F+18+y%2Fo+%2F+Nigeria;javascript+%7C+typescript+%7C+python;building+tools+developers+actually+use;open+source+%7C+bots+%7C+packages+%7C+apis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=aaaaaa&center=true&vCenter=true&width=700&lines=Ayomide+%2F+18+y%2Fo+%2F+Nigeria;javascript+%7C+typescript+%7C+python;building+tools+developers+actually+use;open+source+%7C+bots+%7C+packages+%7C+apis)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,25 +25,19 @@
 <img src="./banner.svg" width="100%"/>
 </div>
 
----
-
 <div align="center">
-<a href="https://ibb.co/WN64MSWh"><img src="./OIG2-ezgif.com-optimize.gif" width="680" alt="Firekid Banner"/></a>
+<img src="./OIG2-ezgif.com-optimize.gif" width="680" alt="Firekid Banner"/>
 </div>
 
 ---
 
 ## About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firekid-is-him&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=666666" width="38%"/>
+<div align="center">
 
-I am Ayomide, a self-taught developer from Nigeria building open-source tools and automation systems for the developer community. I specialize in JavaScript and Node.js, with a growing foundation in Python and TypeScript.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=Self-taught+developer+from+Nigeria.;I+write+bots%2C+build+APIs%2C+and+publish+npm+packages.;Fluent+in+JavaScript+%2F+Node.js%2C+learning+Python.;Currently+building+a+new+npm+package.)](https://git.io/typing-svg)
 
-I write Discord bots, publish npm packages, and build APIs that developers actually use.
-
-Currently working on a new npm package — a rebuilt and improved version of a deprecated module.
-
-<br clear="right"/>
+</div>
 
 ---
 
@@ -70,23 +64,14 @@ Currently working on a new npm package — a rebuilt and improved version of a d
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-95%25-F7DF1E?style=flat-square&labelColor=0d0d0d&color=1a1a1a)
-`█████████▌░` 95%
-
-![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&labelColor=0d0d0d&color=1a1a1a)
-`█████████░░` 90%
-
-![TypeScript](https://img.shields.io/badge/TypeScript-70%25-3178C6?style=flat-square&labelColor=0d0d0d&color=1a1a1a)
-`███████░░░░` 70%
-
-![Discord.js](https://img.shields.io/badge/Discord.js-88%25-5865F2?style=flat-square&labelColor=0d0d0d&color=1a1a1a)
-`████████▊░░` 88%
-
-![Python](https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&labelColor=0d0d0d&color=1a1a1a)
-`████▌░░░░░░` 45%
-
-![Express](https://img.shields.io/badge/Express-80%25-ffffff?style=flat-square&labelColor=0d0d0d&color=1a1a1a)
-`████████░░░` 80%
+| Skill | Level | Progress |
+|---|---|---|
+| JavaScript | 95% | `█████████▌░` |
+| Node.js | 90% | `█████████░░` |
+| Discord.js | 88% | `████████▊░░` |
+| Express | 80% | `████████░░░` |
+| TypeScript | 70% | `███████░░░░` |
+| Python | 45% | `████▌░░░░░░` |
 
 </div>
 
@@ -94,26 +79,37 @@ Currently working on a new npm package — a rebuilt and improved version of a d
 
 ## Terminal
 
+<div align="center">
+
+```bash
+┌─[firekid@dev]─[~]
+└──╼ $ whoami
+  Ayomide — 18 y/o Bot Developer & Script Writer from Nigeria
+
+┌─[firekid@dev]─[~]
+└──╼ $ cat skills.txt
+  Languages  →  JavaScript · TypeScript · Python
+  Runtime    →  Node.js · Express
+  Specialty  →  Discord Bots · REST APIs · npm Packages
+
+┌─[firekid@dev]─[~]
+└──╼ $ ls ./projects
+  @firekid/hurl    @firekid/once    public-apis
+
+┌─[firekid@dev]─[~]
+└──╼ $ cat status.txt
+  Currently  →  Building a new npm package (deprecated rebuild)
+  Open to    →  Collabs · Open Source · Dev Projects
+
+┌─[firekid@dev]─[~]
+└──╼ $ uptime
+  Coding since 2022 · Still going · No signs of stopping
+
+┌─[firekid@dev]─[~]
+└──╼ $ █
 ```
-┌──────────────────────────────────────────────────────────┐
-│  firekid@dev:~$  whoami                                  │
-│  > Ayomide — 18 y/o Bot Developer from Nigeria           │
-│                                                          │
-│  firekid@dev:~$  cat skills.txt                          │
-│  > JavaScript · TypeScript · Python                      │
-│  > Node.js · Express · Discord.js                        │
-│  > REST APIs · npm packages · Bot Architecture           │
-│                                                          │
-│  firekid@dev:~$  ls projects/                            │
-│  > @firekid/hurl   @firekid/once   public-apis           │
-│                                                          │
-│  firekid@dev:~$  cat status.txt                          │
-│  > Currently: Building a new npm package                 │
-│  > Open to:   Collabs · Open Source · Dev projects       │
-│                                                          │
-│  firekid@dev:~$  _                                       │
-└──────────────────────────────────────────────────────────┘
-```
+
+</div>
 
 ---
 
@@ -183,20 +179,20 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Firekid-is-him&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555&icon_color=444444" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firekid-is-him&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Firekid-is-him&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firekid-is-him&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Firekid-is-him&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=333333&fire=555555&currStreakLabel=ffffff&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=777777" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Firekid-is-him&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=888888&currStreakLabel=ffffff&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" width="60%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Firekid-is-him&bg_color=0d0d0d&color=555555&line=2a2a2a&point=777777&area=true&area_color=111111&hide_border=true&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Firekid-is-him&bg_color=0d0d0d&color=888888&line=2a2a2a&point=777777&area=true&area_color=111111&hide_border=true&radius=6" width="100%"/>
 
 </div>
 
@@ -232,23 +228,11 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 ---
 
-## Space Shooter
-
-<div align="center">
-
-[![Space Shooter](https://raw.githubusercontent.com/Firekid-is-him/Firekid-is-him/output/github-contribution-grid-snake-dark.svg)](https://github.com/Firekid-is-him/Firekid-is-him)
-
-> Play the space shooter on my contributions — [click here](https://github.com/Platane/snk)
-
-</div>
-
----
-
 ## Quote
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2500&color=444444&center=true&vCenter=true&width=750&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%94+John+Johnson;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.+%E2%80%94+Cory+House;Simplicity+is+the+soul+of+efficiency.+%E2%80%94+Austin+Freeman;The+best+error+message+is+the+one+that+never+shows+up.+%E2%80%94+Thomas+Fuchs;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Debugging+is+twice+as+hard+as+writing+the+code.+%E2%80%94+Brian+Kernighan;Programs+must+be+written+for+people+to+read.+%E2%80%94+Harold+Abelson;Any+fool+can+write+code+a+computer+understands.+%E2%80%94+Martin+Fowler;The+most+disastrous+thing+you+learn+is+your+first+language.+%E2%80%94+Alan+Kay;It%27s+not+a+bug%2C+it%27s+an+undocumented+feature.+%E2%80%94+Unknown)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=2000&color=bbbbbb&center=true&vCenter=true&width=800&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%94+John+Johnson;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.+%E2%80%94+Cory+House;Simplicity+is+the+soul+of+efficiency.+%E2%80%94+Austin+Freeman;The+best+error+message+is+the+one+that+never+shows+up.+%E2%80%94+Thomas+Fuchs;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Debugging+is+twice+as+hard+as+writing+the+code.+%E2%80%94+Brian+Kernighan;Programs+must+be+written+for+people+to+read.+%E2%80%94+Harold+Abelson;Any+fool+can+write+code+a+computer+understands.+%E2%80%94+Martin+Fowler;The+most+disastrous+thing+you+learn+is+your+first+language.+%E2%80%94+Alan+Kay;It%27s+not+a+bug%2C+it%27s+an+undocumented+feature.+%E2%80%94+Unknown)](https://git.io/typing-svg)
 
 </div>
 
