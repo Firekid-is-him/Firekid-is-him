@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0d1117,100:0d1f3c&height=200&text=FIREKID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Bot%20Developer%20·%20Package%20Creator%20·%20Open%20Source%20Builder&descSize=14&descAlignY=78&descColor=8899aa"/>
+<img src="./banner.svg" width="100%"/>
 
 <div align="center">
 
@@ -20,10 +20,6 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="./banner.svg" width="100%"/>
-</div>
 
 <div align="center">
 <img src="./OIG2-ezgif.com-optimize.gif" width="680" alt="Firekid Banner"/>
@@ -291,4 +287,4 @@ A curated collection of free, open public APIs organized by category. A referenc
 <img src="./video_2026-03-06_14-24-45-ezgif.com-optimize.gif" width="100%" alt="Firekid Outro"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1f3c,50:0d1117,100:0d0d0d&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:3d0000,50:1a0000,100:0d0d0d&height=80&section=footer"/>
