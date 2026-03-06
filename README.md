@@ -228,6 +228,39 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 ---
 
+## Pinned Repositories
+
+<div align="center">
+
+[![hurl](https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=hurl&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555)](https://github.com/Firekid-is-him/hurl)
+[![once](https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=once&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555)](https://github.com/Firekid-is-him/once)
+
+[![public-apis](https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=public-apis&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555)](https://github.com/Firekid-is-him/public-apis)
+
+</div>
+
+---
+
+## Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d0d0d&borderColor=1a1a1a&qColor=ffffff&aColor=888888&codeColor=ffffff)
+
+</div>
+
+---
+
+## Detailed Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/Firekid-is-him/Firekid-is-him/output/metrics.svg)
+
+</div>
+
+---
+
 ## Quote
 
 <div align="center">
