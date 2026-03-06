@@ -169,6 +169,8 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qerstlf2i5mkccdldhx3e5qrru&cover_image=true&theme=default&show_offline=true&background_color=0d0d0d&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qerstlf2i5mkccdldhx3e5qrru&redirect=true)
 
+[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31qerstlf2i5mkccdldhx3e5qrru&count=1)](https://open.spotify.com/user/31qerstlf2i5mkccdldhx3e5qrru)
+
 </div>
 
 ---
