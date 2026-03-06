@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=Self-taught+developer+from+Nigeria.;I+write+bots%2C+build+APIs%2C+and+publish+npm+packages.;Fluent+in+JavaScript+%2F+Node.js%2C+learning+Python.;Currently+building+a+new+npm+package.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=cccccc&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Self-taught+developer+from+Nigeria.;I+write+bots%2C+build+APIs%2C+and+publish+npm+packages.;Fluent+in+JavaScript+%2F+Node.js%2C+learning+Python.;Currently+building+a+new+npm+package.)](https://git.io/typing-svg)
 
 </div>
 
@@ -232,10 +232,16 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 <div align="center">
 
-[![hurl](https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=hurl&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555)](https://github.com/Firekid-is-him/hurl)
-[![once](https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=once&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555)](https://github.com/Firekid-is-him/once)
+<a href="https://github.com/Firekid-is-him/hurl">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=hurl&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
+</a>
+<a href="https://github.com/Firekid-is-him/once">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=once&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
+</a>
 
-[![public-apis](https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=public-apis&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555)](https://github.com/Firekid-is-him/public-apis)
+<a href="https://github.com/Firekid-is-him/public-apis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firekid-is-him&repo=public-apis&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=555555&show_owner=true" />
+</a>
 
 </div>
 
@@ -245,7 +251,7 @@ A curated collection of free, open public APIs organized by category. A referenc
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=0d0d0d&borderColor=1a1a1a&qColor=ffffff&aColor=888888&codeColor=ffffff)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%230d0d0d&qColor=%23ffffff&aColor=%23888888&codeColor=%23ffffff)
 
 </div>
 
