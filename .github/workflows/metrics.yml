@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.MERTICS }}
+          token: ${{ secrets.METRICS }}
           user: Firekid-is-him
           template: classic
           base: header, activity, community, repositories
